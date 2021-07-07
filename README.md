@@ -2,8 +2,6 @@
 
 Build a math expression evaluator
 
-Follows BODMAS/BEDMAS rule (obviously)
-
 ## What it is comprised of
 
 1. Tokenizer
@@ -33,7 +31,7 @@ cargo run
 
 And then enter the expressions you want to evaluate.
 
-Use <kdb>ctrl+c</kbd> to exit the program.
+Use <kbd>ctrl+c</kbd> to exit the program.
 
 ## Screenshot
 
