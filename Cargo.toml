@@ -1,0 +1,10 @@
+[package]
+name = "math_eval"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+name = "parse_math"
+path = "src/parse_math/mod.rs"
+
+[dependencies]
