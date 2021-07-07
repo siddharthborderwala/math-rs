@@ -32,3 +32,9 @@ cargo run
 ```
 
 And then enter the expressions you want to evaluate.
+
+Use <kdb>ctrl+c</kbd> to exit the program.
+
+## Screenshot
+
+![Screenshot of the Program](https://i.imgur.com/WdCMNJN.png)
